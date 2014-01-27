@@ -1,4 +1,5 @@
 <script>
+
 $(function () {
     $('#container_2').highcharts({
 
@@ -79,4 +80,5 @@ else
 ]
 });
 });
+
 </script>
